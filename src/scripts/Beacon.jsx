@@ -64,7 +64,7 @@ export default class JoyrideBeacon extends React.Component {
 
           styles.outer = {
             backgroundColor: `rgba(${rgb.r}, ${rgb.g}, ${rgb.b}, 0.4)`,
-            borderColor: stepStyles.beacon.outer
+            borderColor: `green`
           };
         }
       }
